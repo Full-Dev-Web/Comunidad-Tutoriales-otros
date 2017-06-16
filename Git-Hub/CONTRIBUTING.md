@@ -93,7 +93,7 @@ El mensaje debe contener una descripción clara y concisa del cambio realizado.
 - No coloque punto (.) al final
 
 
-_Si quieres proponer un nuevo tipo de "Accion", puedes abrir un `issue`, para ello en este [enlace](https://github.com/ngVenezuela/wengy-ven/issues)_
+_Si quieres proponer un nuevo tipo de "Accion", puedes abrir un `issue`, para ello en este [enlace](https://github.com/Aprendiendo-JavaScript/Comunidad-Tutoriales-otros/issues)_
 
 **_¡Importante!: Las contribuciones que no cumpla con las recomendaciones acá expuestas no será aceptadas._**
 
