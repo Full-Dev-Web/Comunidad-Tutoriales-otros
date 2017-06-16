@@ -47,6 +47,10 @@ Realizar todos los cambios que se desea hacer al proyecto.
 
 Agregar los archivos y hacer un commit
 
+`$ git add .`
+
+`$ git commit -m "Mensaje descriptivo"`
+
 Después de realizar el commit hacer el push hacia nuestro repositorio indicando la rama que hemos creado.
 
 `$ git push origin feature-nombre-rama`
@@ -63,4 +67,4 @@ Esperar a que los encargados del repositorio lo revisen, acepten y mezclen en la
 
 <br/><br/><br/><br/>
 
-Esta guia esta basada de la guía que se encuentra en: [BCasal/Colaborar Proyecto GitHub.markdown](https://gist.github.com/BCasal/026e4c7f5c71418485c1)
+Este documento esta basada de la guía que se encuentra en: [BCasal/Colaborar Proyecto GitHub.markdown](https://gist.github.com/BCasal/026e4c7f5c71418485c1)
