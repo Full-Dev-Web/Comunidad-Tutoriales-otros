@@ -8,5 +8,5 @@
 * ### Flujo de Trabajo.
 
 * ### Estándares.
-
+	+ [Reglas para contribuir en cualquier proyecto.](Git-Hub/CONTRIBUTING.md)
 * ### Guías.
