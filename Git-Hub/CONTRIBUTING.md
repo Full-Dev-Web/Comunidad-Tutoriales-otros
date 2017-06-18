@@ -1,18 +1,19 @@
-# Contribuyendo con "Aprendiendo-Javascript"
+# Contribuyendo con "Full Dev Web"
 
-Para nosotros tú contribución es muy importante, y en pro de mantener un orden en nuestros repos hemos creado este archivo `contributing.md`, para que puedas enviar todos tus aportes. 
+Para nosotros tú contribución es muy importante, y en pro de mantener un orden en nuestros repositorios hemos creado este archivo `contributing.md`, para que puedas enviar todos tus aportes.
+
 Aquí están los lineamientos para poder contribuir.
 
 
-## Sobre el "branch" o "rama" a utilizar.
+## Sobre el "Branch" o "Rama" a utilizar.
 
-En los proyectos de "Aprendiendo-Javascript", tenemos 3 branches, o ramas por defecto: 
+En los proyectos de "Full Dev Web", tenemos 3 branches, o ramas por defecto: 
 
 - `master`.
 - `develop`.
 - `gh_pages`.
 
-Te recomendamos nombrar los branches o ramas de tus colaboraciones para "Aprendiendo-Javascript" con el prefijo: `js` seguido por la convención de tú preferencia. A nosotros nos agrada esta:
+Te recomendamos nombrar los branches o ramas de tus colaboraciones para "Full Dev Web" con el prefijo: `js` seguido por la convención de tú preferencia. A nosotros nos agrada esta:
 
 `<prefijo js>-<palabra "issue">-<numero de issue>-`.
 
@@ -20,7 +21,7 @@ Quedaría algo como esto: `js-issue-14-encuesta`. Pero también es válido algo 
 
 El branch `master` es tratado como "producción", `gh_page` sera la rama de despliegue usando GitHub Pages y `develop` como el de "ci", o "qa", por lo consiguiente, se deben crear branches o ramas individuales, a partír de `develop` para cualquier aporte, luego en el `pull request` se debe especificar que el nuevo cambio será unirá a `develop`.
 
-##### **_IMPORTANTE_**
+#### **_IMPORTANTE_**
 ¡NUNCA! debemos hacer merge a `master` ya que estaríamos haciendo cambios a "PRODUCCION". 
 
 ## Formato de Commits
@@ -37,7 +38,7 @@ Tenemos una estructura a seguir, para facilitar la validación de tus contribuci
  
 El Encabezado:  `tipo(ámbito): <Mensaje Corto>` **es obligatorio**, el resto es opcional. Las acciones disponibles, puedes encontarlas en [Acciones](#acciones), un poco más abajo.
 
-Cualquier línea en un mensaje de commit no de ser mayor de 100 caracteres!. Esto permite la fácil lectura de los mensajes tant oen Github como en varias herramientas de git.
+Cualquier línea en un mensaje de commit no de ser mayor de 100 caracteres!. Esto permite la fácil lectura de los mensajes tanto en Github como en varias herramientas de git.
 
 #### Ejemplos:
 _Commit Corto:_
